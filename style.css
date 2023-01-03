@@ -1,0 +1,40 @@
+#photo {
+  width: 600px;
+  margin-top: -272px;
+}
+.container ul {
+  justify-content: end;
+  padding: 21px 10px 0px 10px;
+  display: flex;
+  list-style: none;
+}
+.container ul li {
+  padding-right: 40px;
+  cursor: pointer;
+  font-size: 2rem;
+}
+body {
+  background-color: #edf2fc;
+  color: #212121;
+}
+.container ul li img {
+  width: 75px;
+  height: 60px;
+  margin: -19px;
+}
+.name {
+  font-size: 5rem;
+  margin: -421px 0px 22px 415px;
+}
+.me {
+  border-radius: 2px 4px;
+  color: rgb(179, 57, 53);
+}
+.name span {
+  font-size: 6rem;
+}
+
+.dark-theme {
+  color: #edf2fc;
+  background-color: #212121;
+}
